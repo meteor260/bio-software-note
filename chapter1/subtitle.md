@@ -230,7 +230,7 @@ Questions 27–31 deal with aromatic compounds.
 
 ## Q28: Does the structure contain more than one aromatic ring?
 
-**If YES, proceed to Q29; If NO, proceed to Q30      
+**If YES, proceed to Q29; If NO, proceed to Q30  
 **
 
 ## Q29: Is it readily hydrolysed to mononuclear residues? \(If YES, treat the individual aromatic mononuclear residues by Q30 and any other residue by Q19\).
