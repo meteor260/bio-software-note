@@ -186,9 +186,7 @@ Aliphatic compounds containing three or more different functional groups \(exclu
 
 **If YES, Class III; If NO, proceed to Q18**
 
-## Q22: Is the substance a common component of food or structurally closed related to a common
-
-component of food?
+## Q22: Is the substance a common component of food or structurally closed related to a common component of food?
 
 This question places in Class II the natural, nature-identical and nearly nature-identical substances  
  not already put into Class I by physiological occurrence or structural criteria. An artificial substance  
