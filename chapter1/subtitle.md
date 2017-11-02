@@ -208,22 +208,15 @@ This should be answered NO if the ring bears only aliphatic groups of 5 carbons 
 
 ## Q31: Is the substance an acyclic acetal, -ketal or -ester of any of the above substances \(see Q30\)?.
 
-\(If YES, assume hydrolysis and treat the non-aromatic residues by Q19 and the aromatic residue  
- by Q18.\)
+\(If YES, assume hydrolysis and treat the non-aromatic residues by Q19 and the aromatic residue by Q18.\)
 
-This question is simply designed to see whether the substance would fit within the definition of Q30 if  
- it were not an acetal, a ketal or an ester. In other words, would the substance carry only the groups  
- listed in Q30.
+This question is simply designed to see whether the substance would fit within the definition of Q30 if it were not an acetal, a ketal or an ester. In other words, would the substance carry only the groups listed in Q30.
 
 **If YES, proceed to Q18; If NO, proceed to Q32**
 
 ## Q32: Does the substance contain only the functional groups listed in Q30, or their derivatives listed in Q31, but with any or all of the following: \(a\) a single fused non-aromatic carbocyclic  ring, \(b\) aliphatic substituent chains longer than 5 carbon atoms, or \(c\) a polyoxyethylene  \[\(–OCH2CH2–\)x, with x no greater than 4\] chain either on the aromatic ring or on an aliphatic side  chain?
 
-Part \(a\) is intended to allow simple derivatives of tetralin into Class II while putting polycyclic  
- compounds such as steroids ultimately into Class III except those that may be normal food  
- components. Part \(b\) allows compounds with permitted functional groups but longer side chains into  
- Class II instead of sending them eventually into Class III. Part \(c\) puts short-chain polyoxyethylene  
- derivatives of aryl compounds into Class II rather than Class III.
+Part \(a\) is intended to allow simple derivatives of tetralin into Class II while putting polycyclic compounds such as steroids ultimately into Class III except those that may be normal food components. Part \(b\) allows compounds with permitted functional groups but longer side chains into Class II instead of sending them eventually into Class III. Part \(c\) puts short-chain polyoxyethylene derivatives of aryl compounds into Class II rather than Class III.
 
 **If YES, Class II; If NO, proceed to Q22**
 
