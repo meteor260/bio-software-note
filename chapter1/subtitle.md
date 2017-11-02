@@ -122,15 +122,15 @@ Q16 and Q17 deal with terpenes. A hydrocarbon terpene that is a common terpene a
 
 **If YES, Class I; If NO, proceed to Q17**
 
+## Q17: Is the substance readily hydrolysed to a common terpene, -alcohol, -aldehyde or -carboxylic
 
+acid? \(If the answer is YES, treat the hydrolysed residues separately and proceed to Q18 for the  
+ terpene moiety and to Q19 for any non-terpenoid moiety\).
 
-## Q17: Is the substance readily hydrolysed to a common terpene, -alcohol, -aldehyde or -carboxylic acid? \(If the answer is YES, treat the hydrolysed residues separately and proceed to Q18 for the terpene moiety and to Q19 for any non-terpenoid moiety\).
-
-Since there may be substances that are hydrolysed to two or more residues, one of which is terpene, treat the residues separately from Q18 onward to conclusion.
+Since there may be substances that are hydrolysed to two or more residues, one of which is terpene,  
+ treat the residues separately from Q18 onward to conclusion.
 
 **If YES, proceed to Q18; If NO, proceed to Q19**
-
-
 
 ## Q18: Is the substance one of the following:
 
@@ -141,15 +141,16 @@ Since there may be substances that are hydrolysed to two or more residues, one o
 * acrolein, a methacrolein or their acetals
 * acrylic or methacrylic acid
 * an acetylenic compound
-* an acyclic aliphatic ketone, ketal or ketoalcohol with no other functional groups and with   four or more carbons on either side of the keto group
+* an acyclic aliphatic ketone, ketal or ketoalcohol with no other functional groups and with  
+   four or more carbons on either side of the keto group
 
 * a substance in which the functional groups \(E\) are all sterically hindered
 
-Q18 examines the terpenes \(and later the open-chain and mononuclear substances by reference\) to determine whether they contain certain structural features generally thought to be associated with some enhanced toxicity.
+Q18 examines the terpenes \(and later the open-chain and mononuclear substances by reference\) to  
+ determine whether they contain certain structural features generally thought to be associated with  
+ some enhanced toxicity.
 
 **If YES, Class II; If NO, Class I**
-
-
 
 ## Q19: Is the substance open chain?
 
@@ -157,31 +158,43 @@ Q19-21 deal with open-chain substances.
 
 **If YES, proceed to Q20; If NO, proceed to Q23**
 
+## Q20: Is the structure a linear or simply branched aliphatic compound, containing any one or
 
+combination of only the following functional groups: \(a\) four or less, each, of alcohol, aldehyde,  
+ carboxylic acid or esters and/or \(b\) one each of one or more of the following: acetal, either ketone  
+ or ketal but not both, mercaptan, sulphide \(mono- or poly-\), thioester, polyoxyethylene  
+ \[\(–OCH2CH2–\)x with x no greater than 4\], or primary or tertiary amine
 
-## Q20: Is the structure a linear or simply branched aliphatic compound, containing any one or combination of only the following functional groups: \(a\) four or less, each, of alcohol, aldehyde, carboxylic acid or esters and/or \(b\) one each of one or more of the following: acetal, either ketone or ketal but not both, mercaptan, sulphide \(mono- or poly-\), thioester, polyoxyethylene \[\(–OCH2CH2–\)x with x no greater than 4\], or primary or tertiary amine
-
-This question should be answered YES if the structure contains one or any possible combination of alcoholic, aldehydic or carboxylic acid or ester groups, provided there are no more than four of any one kind. It should be answered YES if the structure contains in addition to, or instead of, those just listed, any assortment of no more than one each of the following: acetal, either ketone or ketal but not both, mercaptan, mono- or polysulphide, thioester, polyoxyethylene, primary or tertiary amine. Answer the question NO if the structure contains more than four of any of the first set of groups, more than one of the second set, or any substituent not listed.
+This question should be answered YES if the structure contains one or any possible combination of  
+ alcoholic, aldehydic or carboxylic acid or ester groups, provided there are no more than four of any  
+ one kind. It should be answered YES if the structure contains in addition to, or instead of, those just  
+ listed, any assortment of no more than one each of the following: acetal, either ketone or ketal but  
+ not both, mercaptan, mono- or polysulphide, thioester, polyoxyethylene, primary or tertiary amine.  
+ Answer the question NO if the structure contains more than four of any of the first set of groups,  
+ more than one of the second set, or any substituent not listed.
 
 **If YES, proceed to Q21; If NO, proceed to Q22**
 
+## Q21: Does the structure contain 4¼ 3 different types of functional groups \(exclude methoxy and
 
+consider acids and esters as one functional type\)?
 
-## Q21: Does the structure contain 4¼ 3 different types of functional groups \(exclude methoxy and consider acids and esters as one functional type\)?
-
-Aliphatic compounds containing three or more different functional groups \(excluding methoxy\) are too complex to permit satisfactory prediction of toxicity. They should go therefore, into Class III. However, we do not wish to put into Class III polyesters and similar substances, so these and the methoxy compounds get passed along to Q18.
+Aliphatic compounds containing three or more different functional groups \(excluding methoxy\) are  
+ too complex to permit satisfactory prediction of toxicity. They should go therefore, into Class III.  
+ However, we do not wish to put into Class III polyesters and similar substances, so these and the  
+ methoxy compounds get passed along to Q18.
 
 **If YES, Class III; If NO, proceed to Q18**
 
+## Q22: Is the substance a common component of food or structurally closed related to a common
 
+component of food?
 
-## Q22: Is the substance a common component of food or structurally closed related to a common component of food?
-
-This question places in Class II the natural, nature-identical and nearly nature-identical substances not already put into Class I by physiological occurrence or structural criteria. An artificial substance or one not closely related, goes to Q33.
+This question places in Class II the natural, nature-identical and nearly nature-identical substances  
+ not already put into Class I by physiological occurrence or structural criteria. An artificial substance  
+ or one not closely related, goes to Q33.
 
 **If YES, Class II; If NO, proceed to Q33**
-
-
 
 ## Q23: Is the substance aromatic?
 
@@ -189,25 +202,25 @@ Questions 23-26 deal with alicyclic substances
 
 **If YES, proceed to Q27; If NO, proceed to Q24**
 
+## Q24: Is the substance monocarbocyclic \(excluding cyclopropane or cyclobutane and their
 
-
-## Q24: Is the substance monocarbocyclic \(excluding cyclopropane or cyclobutane and their derivatives\) with ring or aliphatic side chains, unsubstituted or containing only alcohol, aldehyde, side-chain ketone, acid, ester, or Na, K or Ca sulphonate or sulphamate, or acyclic acetal or ketal?
+derivatives\) with ring or aliphatic side chains, unsubstituted or containing only alcohol,  
+ aldehyde, side-chain ketone, acid, ester, or Na, K or Ca sulphonate or sulphamate, or acyclic  
+ acetal or ketal?
 
 **If YES, proceed to Q18; If NO, proceed to Q25**
 
+## Q25: Is the substance \(a\) a cyclopropane or cyclobutane with only the substituents mentioned in Q24
 
-
-## Q25: Is the substance \(a\) a cyclopropane or cyclobutane with only the substituents mentioned in Q24 or \(b\) a mono- or bicyclic sulphide or mercaptan?
+or \(b\) a mono- or bicyclic sulphide or mercaptan?
 
 **If YES, Class II; If NO, proceed to Q26**
 
+## Q26: Does the structure contain no functional groups other than those listed in Q24 and is either
 
-
-## Q26: Does the structure contain no functional groups other than those listed in Q24 and is either a monocycloalkanone or a bicyclic compound with or without a ring ketone?
+a monocycloalkanone or a bicyclic compound with or without a ring ketone?
 
 **If YES, Class II; If NO, proceed to Q22**
-
-
 
 ## Q27: Do\(es\) the ring\(s\) have any substituents?
 
@@ -215,49 +228,64 @@ Questions 27–31 deal with aromatic compounds.
 
 **If YES, Class III; If NO, proceed to Q28**
 
-
-
 ## Q28: Does the structure contain more than one aromatic ring?
 
-**If YES, proceed to Q29; If NO, proceed to Q30**
+**If YES, proceed to Q29; If NO, proceed to Q30  
+**
 
+## Q29: Is it readily hydrolysed to mononuclear residues? \(If YES, treat the individual aromatic
 
-
-## Q29: Is it readily hydrolysed to mononuclear residues? \(If YES, treat the individual aromatic mononuclear residues by Q30 and any other residue by Q19\).
+mononuclear residues by Q30 and any other residue by Q19\).
 
 **If YES, proceed to Q30; If NO, proceed to Q33**
 
+## Q30: Disregarding ring hydroxy or methoxy does the ring bear substituents other than 1-5-carbon
 
+aliphatic groups, either hydrocarbon or containing alcohol, ketone, aldehyde, carboxyl or simple  
+ esters that may be hydrolysed to ring substituents of 5 or less carbons? \(If a simple ester that may be  
+ hydrolysed, treat the aromatic portion by Q18 and the residue by Q19\).
 
-## Q30: Disregarding ring hydroxy or methoxy does the ring bear substituents other than 1-5-carbon aliphatic groups, either hydrocarbon or containing alcohol, ketone, aldehyde, carboxyl or simple esters that may be hydrolysed to ring substituents of 5 or less carbons? \(If a simple ester that may be hydrolysed, treat the aromatic portion by Q18 and the residue by Q19\).
-
-This should be answered NO if the ring bears only aliphatic groups of 5 carbons or less, which are either hydrocarbon in nature or contain the groups listed. If the ring bears any other substituents than those listed, the question should be answered YES and one should proceed to Q31.
+This should be answered NO if the ring bears only aliphatic groups of 5 carbons or less, which are  
+ either hydrocarbon in nature or contain the groups listed. If the ring bears any other substituents  
+ than those listed, the question should be answered YES and one should proceed to Q31.
 
 **If YES, proceed to Q31; If NO, proceed to Q18**
 
+## Q31: Is the substance an acyclic acetal, -ketal or -ester of any of the above substances \(see Q30\)?.
 
+\(If YES, assume hydrolysis and treat the non-aromatic residues by Q19 and the aromatic residue  
+ by Q18.\)
 
-## Q31: Is the substance an acyclic acetal, -ketal or -ester of any of the above substances \(see Q30\)?. \(If YES, assume hydrolysis and treat the non-aromatic residues by Q19 and the aromatic residue by Q18.\)
-
-This question is simply designed to see whether the substance would fit within the definition of Q30 if it were not an acetal, a ketal or an ester. In other words, would the substance carry only the groups listed in Q30.
+This question is simply designed to see whether the substance would fit within the definition of Q30 if  
+ it were not an acetal, a ketal or an ester. In other words, would the substance carry only the groups  
+ listed in Q30.
 
 **If YES, proceed to Q18; If NO, proceed to Q32**
 
+## Q32: Does the substance contain only the functional groups listed in Q30, or their derivatives
 
+listed in Q31, but with any or all of the following: \(a\) a single fused non-aromatic carbocyclic  
+ ring, \(b\) aliphatic substituent chains longer than 5 carbon atoms, or \(c\) a polyoxyethylene  
+ \[\(–OCH2CH2–\)x, with x no greater than 4\] chain either on the aromatic ring or on an aliphatic side  
+ chain?
 
-## Q32: Does the substance contain only the functional groups listed in Q30, or their derivatives listed in Q31, but with any or all of the following: \(a\) a single fused non-aromatic carbocyclic ring, \(b\) aliphatic substituent chains longer than 5 carbon atoms, or \(c\) a polyoxyethylene \[\(–OCH2CH2–\)x, with x no greater than 4\] chain either on the aromatic ring or on an aliphatic side chain?
-
-Part \(a\) is intended to allow simple derivatives of tetralin into Class II while putting polycyclic compounds such as steroids ultimately into Class III except those that may be normal food components. Part \(b\) allows compounds with permitted functional groups but longer side chains into Class II instead of sending them eventually into Class III. Part \(c\) puts short-chain polyoxyethylene derivatives of aryl compounds into Class II rather than Class III.
+Part \(a\) is intended to allow simple derivatives of tetralin into Class II while putting polycyclic  
+ compounds such as steroids ultimately into Class III except those that may be normal food  
+ components. Part \(b\) allows compounds with permitted functional groups but longer side chains into  
+ Class II instead of sending them eventually into Class III. Part \(c\) puts short-chain polyoxyethylene  
+ derivatives of aryl compounds into Class II rather than Class III.
 
 **If YES, Class II; If NO, proceed to Q22**
 
+## Q33: Does the substance bear on every major structural component at least one Na, K or Ca sulphonate or sulphamate for every 20 or fewer carbon atoms without any free primary amines  except those adjacent to the sulphonate or sulphamate.
 
-
-## Q33: Does the substance bear on every major structural component at least one Na, K or Ca sulphonate or sulphamate for every 20 or fewer carbon atoms without any free primary amines except those adjacent to the sulphonate or sulphamate.
-
-Na, K, Ca sulphonate and sulphamate salts have a strong tendency to decrease toxicity by promoting solubility and rapid excretion. This is particularly noticeable, for example, with some of the food colourings. It is important that the substance bears sufficient sulphonate groups, including one on each major structural fragments into which the original compound might be metabolised. This question serves to steer sulphonated compounds except those with amines non-adjacent to the sulphonate into a presumptively less toxic classification than the compounds would occupy if unsulphonated.
+Na, K, Ca sulphonate and sulphamate salts have a strong tendency to decrease toxicity by  
+ promoting solubility and rapid excretion. This is particularly noticeable, for example, with some of  
+ the food colourings. It is important that the substance bears sufficient sulphonate groups, including  
+ one on each major structural fragments into which the original compound might be metabolised.  
+ This question serves to steer sulphonated compounds except those with amines non-adjacent to the  
+ sulphonate into a presumptively less toxic classification than the compounds would occupy if  
+ unsulphonated.
 
 **If YES, Class III; If NO, Class I**
-
-
 
