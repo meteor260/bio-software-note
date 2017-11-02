@@ -75,12 +75,7 @@ This places such substances as epoxides and ethylenimine in Class III.
 
 **If YES, Class III; If NO, proceed to Q11**
 
-## Q11: Disregarding only the heteroatoms on any one ring, does that heterocyclic ring contain or bear
-
-substituents other than simply branched hydrocarbons \(including bridged chains and monocyclic aryl  
- or alkyl structures\),alkyl alcohols, aldehydes, acetals, ketones, ketals, acids, esters \(including cyclic  
- esters other than lactones\), mercaptans, sulphides, methyl ethers, hydroxy or single rings \(hetero or  
- aryl\) with no substituents other than those just listed?
+## Q11: Disregarding only the heteroatoms on any one ring, does that heterocyclic ring contain or bear substituents other than simply branched hydrocarbons \(including bridged chains and monocyclic aryl  or alkyl structures\),alkyl alcohols, aldehydes, acetals, ketones, ketals, acids, esters \(including cyclic  esters other than lactones\), mercaptans, sulphides, methyl ethers, hydroxy or single rings \(hetero or  aryl\) with no substituents other than those just listed?
 
 Questions 11–15 separate out various categories of heteroaromatic substances. Under 11, set aside  
  and do not consider the atom\(s\), usually O, N and S, making the ring heterocyclic. If there is more  
@@ -109,9 +104,7 @@ This question separates the aromatic heterocyclics for the purpose of considerin
 
 **If YES, proceed to Q15; If NO, proceed to Q22**
 
-## Q15: Is it readily hydrolysed to mononuclear residues? \(If YES, treat the mononuclear heterocyclic
-
-residues by Q22 and any carbocyclic residue by Q16\).
+## Q15: Is it readily hydrolysed to mononuclear residues? \(If YES, treat the mononuclear heterocyclic residues by Q22 and any carbocyclic residue by Q16\).
 
 **If YES, proceed to Q22; If NO, proceed to Q33**
 
@@ -122,10 +115,7 @@ Q16 and Q17 deal with terpenes. A hydrocarbon terpene that is a common terpene a
 
 **If YES, Class I; If NO, proceed to Q17**
 
-## Q17: Is the substance readily hydrolysed to a common terpene, -alcohol, -aldehyde or -carboxylic
-
-acid? \(If the answer is YES, treat the hydrolysed residues separately and proceed to Q18 for the  
- terpene moiety and to Q19 for any non-terpenoid moiety\).
+## Q17: Is the substance readily hydrolysed to a common terpene, -alcohol, -aldehyde or -carboxylic acid? \(If the answer is YES, treat the hydrolysed residues separately and proceed to Q18 for the  terpene moiety and to Q19 for any non-terpenoid moiety\).
 
 Since there may be substances that are hydrolysed to two or more residues, one of which is terpene,  
  treat the residues separately from Q18 onward to conclusion.
@@ -158,12 +148,7 @@ Q19-21 deal with open-chain substances.
 
 **If YES, proceed to Q20; If NO, proceed to Q23**
 
-## Q20: Is the structure a linear or simply branched aliphatic compound, containing any one or
-
-combination of only the following functional groups: \(a\) four or less, each, of alcohol, aldehyde,  
- carboxylic acid or esters and/or \(b\) one each of one or more of the following: acetal, either ketone  
- or ketal but not both, mercaptan, sulphide \(mono- or poly-\), thioester, polyoxyethylene  
- \[\(–OCH2CH2–\)x with x no greater than 4\], or primary or tertiary amine
+## Q20: Is the structure a linear or simply branched aliphatic compound, containing any one or combination of only the following functional groups: \(a\) four or less, each, of alcohol, aldehyde,  carboxylic acid or esters and/or \(b\) one each of one or more of the following: acetal, either ketone  or ketal but not both, mercaptan, sulphide \(mono- or poly-\), thioester, polyoxyethylene  \[\(–OCH2CH2–\)x with x no greater than 4\], or primary or tertiary amine
 
 This question should be answered YES if the structure contains one or any possible combination of  
  alcoholic, aldehydic or carboxylic acid or ester groups, provided there are no more than four of any  
@@ -175,9 +160,7 @@ This question should be answered YES if the structure contains one or any possib
 
 **If YES, proceed to Q21; If NO, proceed to Q22**
 
-## Q21: Does the structure contain 4¼ 3 different types of functional groups \(exclude methoxy and
-
-consider acids and esters as one functional type\)?
+## Q21: Does the structure contain 4¼ 3 different types of functional groups \(exclude methoxy and consider acids and esters as one functional type\)?
 
 Aliphatic compounds containing three or more different functional groups \(excluding methoxy\) are  
  too complex to permit satisfactory prediction of toxicity. They should go therefore, into Class III.  
