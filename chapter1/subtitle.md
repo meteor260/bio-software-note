@@ -139,11 +139,7 @@ Q19-21 deal with open-chain substances.
 
 ## Q20: Is the structure a linear or simply branched aliphatic compound, containing any one or combination of only the following functional groups: \(a\) four or less, each, of alcohol, aldehyde,  carboxylic acid or esters and/or \(b\) one each of one or more of the following: acetal, either ketone  or ketal but not both, mercaptan, sulphide \(mono- or poly-\), thioester, polyoxyethylene  \[\(–OCH2CH2–\)x with x no greater than 4\], or primary or tertiary amine
 
-This question should be answered YES if the structure contains one or any possible combination of  
- alcoholic, aldehydic or carboxylic acid or ester groups, provided there are no more than four of any  
- one kind. It should be answered YES if the structure contains in addition to, or instead of, those just  
- listed, any assortment of no more than one each of the following: acetal, either ketone or ketal but  
- not both, mercaptan, mono- or polysulphide, thioester, polyoxyethylene, primary or tertiary amine.  
+This question should be answered YES if the structure contains one or any possible combination of alcoholic, aldehydic or carboxylic acid or ester groups, provided there are no more than four of any one kind. It should be answered YES if the structure contains in addition to, or instead of, those just listed, any assortment of no more than one each of the following: acetal, either ketone or ketal but not both, mercaptan, mono- or polysulphide, thioester, polyoxyethylene, primary or tertiary amine.  
  Answer the question NO if the structure contains more than four of any of the first set of groups,  
  more than one of the second set, or any substituent not listed.
 
@@ -151,18 +147,13 @@ This question should be answered YES if the structure contains one or any possib
 
 ## Q21: Does the structure contain 4¼ 3 different types of functional groups \(exclude methoxy and consider acids and esters as one functional type\)?
 
-Aliphatic compounds containing three or more different functional groups \(excluding methoxy\) are  
- too complex to permit satisfactory prediction of toxicity. They should go therefore, into Class III.  
- However, we do not wish to put into Class III polyesters and similar substances, so these and the  
- methoxy compounds get passed along to Q18.
+Aliphatic compounds containing three or more different functional groups \(excluding methoxy\) are too complex to permit satisfactory prediction of toxicity. They should go therefore, into Class III. However, we do not wish to put into Class III polyesters and similar substances, so these and the methoxy compounds get passed along to Q18.
 
 **If YES, Class III; If NO, proceed to Q18**
 
 ## Q22: Is the substance a common component of food or structurally closed related to a common component of food?
 
-This question places in Class II the natural, nature-identical and nearly nature-identical substances  
- not already put into Class I by physiological occurrence or structural criteria. An artificial substance  
- or one not closely related, goes to Q33.
+This question places in Class II the natural, nature-identical and nearly nature-identical substances not already put into Class I by physiological occurrence or structural criteria. An artificial substance or one not closely related, goes to Q33.
 
 **If YES, Class II; If NO, proceed to Q33**
 
