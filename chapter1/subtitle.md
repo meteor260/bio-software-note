@@ -230,20 +230,14 @@ Questions 27–31 deal with aromatic compounds.
 
 ## Q28: Does the structure contain more than one aromatic ring?
 
-**If YES, proceed to Q29; If NO, proceed to Q30    
+**If YES, proceed to Q29; If NO, proceed to Q30      
 **
 
-## Q29: Is it readily hydrolysed to mononuclear residues? \(If YES, treat the individual aromatic
-
-mononuclear residues by Q30 and any other residue by Q19\).
+## Q29: Is it readily hydrolysed to mononuclear residues? \(If YES, treat the individual aromatic mononuclear residues by Q30 and any other residue by Q19\).
 
 **If YES, proceed to Q30; If NO, proceed to Q33**
 
-## Q30: Disregarding ring hydroxy or methoxy does the ring bear substituents other than 1-5-carbon
-
-aliphatic groups, either hydrocarbon or containing alcohol, ketone, aldehyde, carboxyl or simple  
- esters that may be hydrolysed to ring substituents of 5 or less carbons? \(If a simple ester that may be  
- hydrolysed, treat the aromatic portion by Q18 and the residue by Q19\).
+## Q30: Disregarding ring hydroxy or methoxy does the ring bear substituents other than 1-5-carbon aliphatic groups, either hydrocarbon or containing alcohol, ketone, aldehyde, carboxyl or simple  esters that may be hydrolysed to ring substituents of 5 or less carbons? \(If a simple ester that may be  hydrolysed, treat the aromatic portion by Q18 and the residue by Q19\).
 
 This should be answered NO if the ring bears only aliphatic groups of 5 carbons or less, which are  
  either hydrocarbon in nature or contain the groups listed. If the ring bears any other substituents  
