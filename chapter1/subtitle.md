@@ -52,9 +52,7 @@ This question separates the lactones and cyclic diesters from other heterocyclic
 
 This places certain lactones known or suspected to be of unusual toxicity in Class III.
 
-\*If it is a lactone, from this point on, treat the structure as if it were the hydroxy acid in the form of  
- its more stable tautomer and proceed to Q20 if it is open chain, to 10 if it is heterocyclic and to Q23 if  
- it is carbocylic; if it is a cyclic diester, treat as the separate components.
+\*If it is a lactone, from this point on, treat the structure as if it were the hydroxy acid in the form of its more stable tautomer and proceed to Q20 if it is open chain, to 10 if it is heterocyclic and to Q23 if it is carbocylic; if it is a cyclic diester, treat as the separate components.
 
 **If YES, Class III; If NO, \***
 
