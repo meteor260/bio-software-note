@@ -200,9 +200,7 @@ Questions 27–31 deal with aromatic compounds.
 
 ## Q30: Disregarding ring hydroxy or methoxy does the ring bear substituents other than 1-5-carbon aliphatic groups, either hydrocarbon or containing alcohol, ketone, aldehyde, carboxyl or simple  esters that may be hydrolysed to ring substituents of 5 or less carbons? \(If a simple ester that may be  hydrolysed, treat the aromatic portion by Q18 and the residue by Q19\).
 
-This should be answered NO if the ring bears only aliphatic groups of 5 carbons or less, which are  
- either hydrocarbon in nature or contain the groups listed. If the ring bears any other substituents  
- than those listed, the question should be answered YES and one should proceed to Q31.
+This should be answered NO if the ring bears only aliphatic groups of 5 carbons or less, which are either hydrocarbon in nature or contain the groups listed. If the ring bears any other substituents than those listed, the question should be answered YES and one should proceed to Q31.
 
 **If YES, proceed to Q31; If NO, proceed to Q18**
 
