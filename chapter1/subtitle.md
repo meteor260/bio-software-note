@@ -229,13 +229,8 @@ Part \(a\) is intended to allow simple derivatives of tetralin into Class II whi
 
 ## Q33: Does the substance bear on every major structural component at least one Na, K or Ca sulphonate or sulphamate for every 20 or fewer carbon atoms without any free primary amines  except those adjacent to the sulphonate or sulphamate.
 
-Na, K, Ca sulphonate and sulphamate salts have a strong tendency to decrease toxicity by  
- promoting solubility and rapid excretion. This is particularly noticeable, for example, with some of  
- the food colourings. It is important that the substance bears sufficient sulphonate groups, including  
- one on each major structural fragments into which the original compound might be metabolised.  
- This question serves to steer sulphonated compounds except those with amines non-adjacent to the  
- sulphonate into a presumptively less toxic classification than the compounds would occupy if  
- unsulphonated.
+Na, K, Ca sulphonate and sulphamate salts have a strong tendency to decrease toxicity by promoting solubility and rapid excretion. This is particularly noticeable, for example, with some of the food colourings. It is important that the substance bears sufficient sulphonate groups, including one on each major structural fragments into which the original compound might be metabolised.  
+ This question serves to steer sulphonated compounds except those with amines non-adjacent to the sulphonate into a presumptively less toxic classification than the compounds would occupy if unsulphonated.
 
 **If YES, Class III; If NO, Class I**
 
