@@ -187,15 +187,11 @@ Questions 23-26 deal with alicyclic substances
 
 **If YES, proceed to Q18; If NO, proceed to Q25**
 
-## Q25: Is the substance \(a\) a cyclopropane or cyclobutane with only the substituents mentioned in Q24
-
-or \(b\) a mono- or bicyclic sulphide or mercaptan?
+## Q25: Is the substance \(a\) a cyclopropane or cyclobutane with only the substituents mentioned in Q24 or \(b\) a mono- or bicyclic sulphide or mercaptan?
 
 **If YES, Class II; If NO, proceed to Q26**
 
-## Q26: Does the structure contain no functional groups other than those listed in Q24 and is either
-
-a monocycloalkanone or a bicyclic compound with or without a ring ketone?
+## Q26: Does the structure contain no functional groups other than those listed in Q24 and is either a monocycloalkanone or a bicyclic compound with or without a ring ketone?
 
 **If YES, Class II; If NO, proceed to Q22**
 
