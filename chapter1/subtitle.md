@@ -200,11 +200,7 @@ Questions 23-26 deal with alicyclic substances
 
 **If YES, proceed to Q27; If NO, proceed to Q24**
 
-## Q24: Is the substance monocarbocyclic \(excluding cyclopropane or cyclobutane and their
-
-derivatives\) with ring or aliphatic side chains, unsubstituted or containing only alcohol,  
- aldehyde, side-chain ketone, acid, ester, or Na, K or Ca sulphonate or sulphamate, or acyclic  
- acetal or ketal?
+## Q24: Is the substance monocarbocyclic \(excluding cyclopropane or cyclobutane and their derivatives\) with ring or aliphatic side chains, unsubstituted or containing only alcohol,  aldehyde, side-chain ketone, acid, ester, or Na, K or Ca sulphonate or sulphamate, or acyclic  acetal or ketal?
 
 **If YES, proceed to Q18; If NO, proceed to Q25**
 
