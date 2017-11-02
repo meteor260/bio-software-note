@@ -66,22 +66,15 @@ This places such substances as epoxides and ethylenimine in Class III.
 
 ## Q11: Disregarding only the heteroatoms on any one ring, does that heterocyclic ring contain or bear substituents other than simply branched hydrocarbons \(including bridged chains and monocyclic aryl  or alkyl structures\),alkyl alcohols, aldehydes, acetals, ketones, ketals, acids, esters \(including cyclic  esters other than lactones\), mercaptans, sulphides, methyl ethers, hydroxy or single rings \(hetero or  aryl\) with no substituents other than those just listed?
 
-Questions 11–15 separate out various categories of heteroaromatic substances. Under 11, set aside  
- and do not consider the atom\(s\), usually O, N and S, making the ring heterocyclic. If there is more  
- than one hetero ring, regard each ring separately, with the remainder of the structure as substituents  
- of that hetero ring. Other than the heterocyclic atom\(s\), does the ring carry anything besides the simple groups listed?
+Questions 11–15 separate out various categories of heteroaromatic substances. Under 11, set aside and do not consider the atom\(s\), usually O, N and S, making the ring heterocyclic. If there is more than one hetero ring, regard each ring separately, with the remainder of the structure as substituents of that hetero ring. Other than the heterocyclic atom\(s\), does the ring carry anything besides the simple groups listed?
 
-If so, the answer is YES, and the next Question 33. If not, then classify further by Q12 et seq.  
- Bridged-chain derivatives may be represented by structures like the bicyclic ether 1,4-cineole while  
- monocyclic aryl derivatives may be represented by compounds like benzaldehyde propylene glycol  
- acetal or 3-phenyl-2-furancarboxaldehyde.
+If so, the answer is YES, and the next Question 33. If not, then classify further by Q12 et seq. Bridged-chain derivatives may be represented by structures like the bicyclic ether 1,4-cineole while monocyclic aryl derivatives may be represented by compounds like benzaldehyde propylene glycol acetal or 3-phenyl-2-furancarboxaldehyde.
 
 **If YES, proceed to Q33; If NO, proceed to Q12**
 
 ## Q12: Is it heteroaromatic?
 
-This question separates the aromatic heterocyclics for the purpose of considering whether they are  
- polynuclear \(Q14\) or unsubstituted \(Q13\).
+This question separates the aromatic heterocyclics for the purpose of considering whether they are polynuclear \(Q14\) or unsubstituted \(Q13\).
 
 **If YES, proceed to Q13; If NO, proceed to Q22**
 
@@ -99,15 +92,13 @@ This question separates the aromatic heterocyclics for the purpose of considerin
 
 ## Q16: Is it a common terpene -hydrocarbon, -alcohol, -aldehyde or -carboxylic acid \(not a ketone\)?
 
-Q16 and Q17 deal with terpenes. A hydrocarbon terpene that is a common terpene and has not  
- already been put in Class I by Q5, would go into Class I by Q16.
+Q16 and Q17 deal with terpenes. A hydrocarbon terpene that is a common terpene and has not already been put in Class I by Q5, would go into Class I by Q16.
 
 **If YES, Class I; If NO, proceed to Q17**
 
 ## Q17: Is the substance readily hydrolysed to a common terpene, -alcohol, -aldehyde or -carboxylic acid? \(If the answer is YES, treat the hydrolysed residues separately and proceed to Q18 for the  terpene moiety and to Q19 for any non-terpenoid moiety\).
 
-Since there may be substances that are hydrolysed to two or more residues, one of which is terpene,  
- treat the residues separately from Q18 onward to conclusion.
+Since there may be substances that are hydrolysed to two or more residues, one of which is terpene, treat the residues separately from Q18 onward to conclusion.
 
 **If YES, proceed to Q18; If NO, proceed to Q19**
 
@@ -144,7 +135,7 @@ Answer the question NO if the structure contains more than four of any of the fi
 
 ## Q21: Does the structure contain 4¼ 3 different types of functional groups \(exclude methoxy and consider acids and esters as one functional type\)?
 
-Aliphatic compounds containing three or more different functional groups \(excluding methoxy\) are too complex to permit satisfactory prediction of toxicity. They should go therefore, into Class III.   
+Aliphatic compounds containing three or more different functional groups \(excluding methoxy\) are too complex to permit satisfactory prediction of toxicity. They should go therefore, into Class III.  
 However, we do not wish to put into Class III polyesters and similar substances, so these and the methoxy compounds get passed along to Q18.
 
 **If YES, Class III; If NO, proceed to Q18**
