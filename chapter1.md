@@ -18,5 +18,5 @@ Compound structure.
 
 ### Output
 
-Human exposure  thresholds were derived for the three classes namely 1.8mg day1 for **Class I**, 0.54mg day1 for **Class II** and 0.09 mg day1 for **Class III** substances.
+Human exposure  thresholds were derived for the three classes namely 1.8mg/day1 for **Class I**, 0.54mg/day1 for **Class II** and 0.09 mg/day1 for **Class III** substances.
 
