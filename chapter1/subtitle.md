@@ -230,7 +230,7 @@ Questions 27–31 deal with aromatic compounds.
 
 ## Q28: Does the structure contain more than one aromatic ring?
 
-**If YES, proceed to Q29; If NO, proceed to Q30  
+**If YES, proceed to Q29; If NO, proceed to Q30    
 **
 
 ## Q29: Is it readily hydrolysed to mononuclear residues? \(If YES, treat the individual aromatic
@@ -262,12 +262,7 @@ This question is simply designed to see whether the substance would fit within t
 
 **If YES, proceed to Q18; If NO, proceed to Q32**
 
-## Q32: Does the substance contain only the functional groups listed in Q30, or their derivatives
-
-listed in Q31, but with any or all of the following: \(a\) a single fused non-aromatic carbocyclic  
- ring, \(b\) aliphatic substituent chains longer than 5 carbon atoms, or \(c\) a polyoxyethylene  
- \[\(–OCH2CH2–\)x, with x no greater than 4\] chain either on the aromatic ring or on an aliphatic side  
- chain?
+## Q32: Does the substance contain only the functional groups listed in Q30, or their derivatives listed in Q31, but with any or all of the following: \(a\) a single fused non-aromatic carbocyclic  ring, \(b\) aliphatic substituent chains longer than 5 carbon atoms, or \(c\) a polyoxyethylene  \[\(–OCH2CH2–\)x, with x no greater than 4\] chain either on the aromatic ring or on an aliphatic side  chain?
 
 Part \(a\) is intended to allow simple derivatives of tetralin into Class II while putting polycyclic  
  compounds such as steroids ultimately into Class III except those that may be normal food  
